@@ -17,3 +17,4 @@ Din alfa og omega-guide til hvordan toaste
 - Truffel mayo
 - Grov sennep
 - Sprøstekt løk
+- Sjokolademelk (gjerne Tine melk + Oboy)
