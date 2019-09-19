@@ -18,3 +18,4 @@ Din alfa og omega-guide til hvordan toaste
 - Grov sennep
 - Sprøstekt løk
 - Sjokolademelk (gjerne Tine melk + Oboy)
+- Pesto (funker fint med både tradisjonell "kun pinjekjerner", men også potetvariantene)
