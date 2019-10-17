@@ -2,7 +2,6 @@
 Din alfa og omega-guide til hvordan toaste
 
 ## Bare minimum
-- Grovbrød
 - Fint brød
 - Jarlsberg
 - Revet ost
@@ -16,6 +15,7 @@ Din alfa og omega-guide til hvordan toaste
 - Sort pepper (på utsida)
 
 ## Nais additions
+- Grovbrød
 - Truffel mayo
 - Grov sennep
 - Dijonsennep
